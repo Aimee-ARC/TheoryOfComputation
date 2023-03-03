@@ -1,0 +1,5 @@
+if (a >0 and b<12) then c=16;
+
+while(a=2 or b+1) do c-1;
+
+int variable = 123;
